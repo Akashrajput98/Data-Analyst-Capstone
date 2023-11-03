@@ -31,8 +31,8 @@ Cardiovascular diseases are the leading cause of death globally. To identify the
 5.	Perform logistic regression, predict the outcome for test data, and validate the results by using the confusion matrix.
 
 #### Findings:
-•	There are no NaN values in the data.
-•	There are certain outliers in all the continuous features.
+*	There are no NaN values in the data.
+*	There are certain outliers in all the continuous features.
 •	The data consists of more than twice the number of people with sex = 1 than sex = 0.
 •	There is no apparent strong linear correlation between continuous variable according to the heatmap.
 •	It is intuitive that elder people might have higher chances of heart attack but according to the distribution of age group w.r.t. output, it is evident that this isn't the case.

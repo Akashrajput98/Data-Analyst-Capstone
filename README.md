@@ -33,13 +33,13 @@ Cardiovascular diseases are the leading cause of death globally. To identify the
 #### Findings:
 *	There are no NaN values in the data.
 *	There are certain outliers in all the continuous features.
-•	The data consists of more than twice the number of people with sex = 1 than sex = 0.
-•	There is no apparent strong linear correlation between continuous variable according to the heatmap.
-•	It is intuitive that elder people might have higher chances of heart attack but according to the distribution of age group w.r.t. output, it is evident that this isn't the case.
-•	According to the distribution of thalach group w.r.t. output, people with higher maximum heart rate achieved have higher chances of heart attack.
-•	According to the distribution of oldpeak group w.r.t. output, people with lower oldpeak achieved have higher chances of heart attack.
-•	People with Non-Anginal chest pain, that is with cp = 2 have higher chances of heart attack.
-•	People with 0 major vessels, that is with ca = 0 have high chance of heart attack.
-•	People with sex = 1 have higher chance of heart attack.
-•	People with thal = 2 have much higher chance of heart attack.
-•	People with no exercise induced angina, that is with exng = 0 have higher chance of heart attack.
+*	The data consists of more than twice the number of people with sex = 1 than sex = 0.
+*	There is no apparent strong linear correlation between continuous variable according to the heatmap.
+*	It is intuitive that elder people might have higher chances of heart attack but according to the distribution of age group w.r.t. output, it is evident that this isn't the case.
+*	According to the distribution of thalach group w.r.t. output, people with higher maximum heart rate achieved have higher chances of heart attack.
+*	According to the distribution of oldpeak group w.r.t. output, people with lower oldpeak achieved have higher chances of heart attack.
+*	People with Non-Anginal chest pain, that is with cp = 2 have higher chances of heart attack.
+*	People with 0 major vessels, that is with ca = 0 have high chance of heart attack.
+*	People with sex = 1 have higher chance of heart attack.
+*	People with thal = 2 have much higher chance of heart attack.
+*	People with no exercise induced angina, that is with exng = 0 have higher chance of heart attack.
